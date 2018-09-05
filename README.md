@@ -1,3 +1,3 @@
 # UnityFeedbackEffect
 
-![sample04](./UnityFeedbackEffect/Images/feedback.gif)
+![sample04](./UnityFeedbackEffect/Image/feedback.gif)
